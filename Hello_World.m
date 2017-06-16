@@ -1,11 +1,10 @@
-%Define the variable Erik
-Erik=5;
-
+%Clean the Workspace
+clc; clear;
+%Define x
+x=5;
 %Display the words "Hello World"
-disp('Hello World')
-
-%Output the Variable squared by not having a semicolon
-Erik^2 %Thats my name!!!
-
-
-for
+disp('Hello World');
+%create the variable squared
+x2=x^2;
+%display the variable squared
+disp(x2);
