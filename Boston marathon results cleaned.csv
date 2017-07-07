@@ -1,4 +1,4 @@
-bibnumber,name,gender,age,genderdiv,division,overallplace,pace,5k,10k,20k,25k,30k,35k,40k,half,officialtime,city,state,country,ctz
+bibnumber,name,gender,age,genderdiv,division,overallplace,pace,split5k,split10k,split20k,split25k,split30k,split35k,split40k,splithalf,officialtime,city,state,country,ctz
 W2,"Van Dyk, Ernst F.",M,41,1,1,1,3.08,7.75,16.62,36.1,45.8,56.45,67.42,76.1,38.03,80.6,Paarl,,RSA,
 W3,"Hokinoue, Kota",M,40,2,2,2,3.1,8.02,17.12,36.58,46.37,57.03,67.83,76.72,38.6,81.23,Nogata Fukuoka,,JPN,
 W6,"Soejima, Masazumi",M,43,3,3,3,3.1,8,17.12,36.6,46.37,57.03,67.83,76.7,38.6,81.23,Isahaya,,JPN,
